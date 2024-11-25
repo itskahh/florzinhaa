@@ -20,3 +20,15 @@ section{
 
 img{
     height: 200px:
+}
+
+  .categoria-vidios{
+    display: flex;
+    overflow-x: auto;
+    padding-right: 10px;
+    gap: 10PX;
+  }
+
+  h2{
+    padding-left: 20px;
+  }
